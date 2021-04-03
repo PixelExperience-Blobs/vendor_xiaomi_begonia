@@ -1772,9 +1772,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkutils.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libneuroeara.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libneuroeara.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libneuron_adapter.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libneuron_adapter.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib64/libneuron_aidepth.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libneuron_aidepth.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libneuron_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libneuron_platform.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib64/libneuron_runainr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libneuron_runainr.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libneuron_runtime.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libneuron_runtime.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libneuropilot_hal_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libneuropilot_hal_utils.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libneuropilot_jni_R.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libneuropilot_jni_R.so \
@@ -1907,6 +1905,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleRT5514P \
     HotwordEnrollmentXGoogleRT5514P \
     android.hardware.gpu@1.0-service \
-    android.hardware.neuralnetworks@1.3-service-mtk-mdla-dsp-gpu \
+    android.hardware.neuralnetworks@1.3-service-mtk-dsp-gpu \
     manifest_android.hardware.drm@1.3-service.widevine \
     vendor.mediatek.hardware.dplanner@2.0-service
