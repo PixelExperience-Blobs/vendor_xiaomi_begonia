@@ -1758,7 +1758,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libvpu.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpu.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libwapi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwapi.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libwifi-hal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifi-hal.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib64/libwifitest.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwifitest.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libwo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwo.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libwpa_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwpa_client.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libwpfa.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwpfa.so \
