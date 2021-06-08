@@ -1083,7 +1083,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmt.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmt.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtcloader.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtcloader.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtee.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtee.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib/libmtk_drvb.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtk_drvb.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtkares.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkares.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtkcam.atmseventmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkcam.atmseventmgr.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtkcam.eventcallback.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkcam.eventcallback.so \
@@ -1107,11 +1106,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtkcam_ulog.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkcam_ulog.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtkcutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkcutils.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtkhardware_legacy.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkhardware_legacy.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib/libmtklimiter_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtklimiter_vendor.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtknetutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtknetutils.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtkproperty.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkproperty.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtkrillog.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkrillog.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib/libmtkshifter_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtkshifter_vendor.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libmtksysutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmtksysutils.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libneuroeara.so:$(TARGET_COPY_OUT_VENDOR)/lib/libneuroeara.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libneuropilot_hal_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libneuropilot_hal_utils.so \
@@ -1644,7 +1641,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtee.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtee.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtk-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtk-ril.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtk-rilop.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtk-rilop.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtk_drvb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtk_drvb.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkares.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkares.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkcam.atmseventmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkcam.atmseventmgr.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkcam.eventcallback.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkcam.eventcallback.so \
@@ -1706,13 +1702,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkconfigutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkconfigutils.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkcutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkcutils.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkhardware_legacy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkhardware_legacy.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtklimiter_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtklimiter_vendor.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtknetcap.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtknetcap.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtknetutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtknetutils.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkproperty.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkproperty.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkrillog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkrillog.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkrilutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkrilutils.so \
-    vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkshifter_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkshifter_vendor.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtksysutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtksysutils.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtktinyxml.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtktinyxml.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libmtkutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmtkutils.so \
