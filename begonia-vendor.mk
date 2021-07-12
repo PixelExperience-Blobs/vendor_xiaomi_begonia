@@ -1814,6 +1814,8 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     SoterService \
+    HotwordEnrollmentOKGoogleCORTEXM4 \
+    HotwordEnrollmentXGoogleCORTEXM4 \
     com.android.hotwordenrollment.common.util \
     android.hardware.gpu@1.0-service \
     android.hardware.neuralnetworks@1.3-service-mtk-dsp-gpu \
