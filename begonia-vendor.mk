@@ -194,7 +194,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/etc/camera/CFR_para_W.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/CFR_para_W.bin \
     vendor/xiaomi/begonia/proprietary/vendor/etc/camera/LDC_packdata_xiaomi_G7_src1.dat:$(TARGET_COPY_OUT_VENDOR)/etc/camera/LDC_packdata_xiaomi_G7_src1.dat \
     vendor/xiaomi/begonia/proprietary/vendor/etc/camera/apu_miai_capture.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/apu_miai_capture.bin \
-    vendor/xiaomi/begonia/proprietary/vendor/etc/camera/apu_miai_fragment.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/apu_miai_fragment.bin \
     vendor/xiaomi/begonia/proprietary/vendor/etc/camera/apu_miai_preview.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/apu_miai_preview.bin \
     vendor/xiaomi/begonia/proprietary/vendor/etc/camera/beauty_ui9_intelligent_params.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beauty_ui9_intelligent_params.config \
     vendor/xiaomi/begonia/proprietary/vendor/etc/camera/golden_rear_dc_cal_wt.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/golden_rear_dc_cal_wt.bin \
