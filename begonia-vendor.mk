@@ -68,6 +68,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/bin/mi_thermald:$(TARGET_COPY_OUT_VENDOR)/bin/mi_thermald \
     vendor/xiaomi/begonia/proprietary/vendor/bin/mnld:$(TARGET_COPY_OUT_VENDOR)/bin/mnld \
     vendor/xiaomi/begonia/proprietary/vendor/bin/mtk_agpsd:$(TARGET_COPY_OUT_VENDOR)/bin/mtk_agpsd \
+    vendor/xiaomi/begonia/proprietary/vendor/bin/osal_ut:$(TARGET_COPY_OUT_VENDOR)/bin/osal_ut \
     vendor/xiaomi/begonia/proprietary/vendor/bin/starter:$(TARGET_COPY_OUT_VENDOR)/bin/starter \
     vendor/xiaomi/begonia/proprietary/vendor/bin/stroke:$(TARGET_COPY_OUT_VENDOR)/bin/stroke \
     vendor/xiaomi/begonia/proprietary/vendor/bin/teei_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/teei_daemon \
@@ -693,6 +694,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvp9dec_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvp9dec_sa.ca7.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvpud_vcodec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvpud_vcodec.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libvsim.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvsim.so \
+    vendor/xiaomi/begonia/proprietary/vendor/lib/libwlparser.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwlparser.so \
+    vendor/xiaomi/begonia/proprietary/vendor/lib/libwlservice.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwlservice.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libwo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwo.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwvhidl.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib/libwvkeybox.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwvkeybox.so \
@@ -1175,6 +1178,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libvidhance.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvidhance.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libvpu.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpu.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libvsim.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvsim.so \
+    vendor/xiaomi/begonia/proprietary/vendor/lib64/libwlparser.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwlparser.so \
+    vendor/xiaomi/begonia/proprietary/vendor/lib64/libwlservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwlservice.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/libwo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwo.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/nwk_opt_imp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/nwk_opt_imp.so \
     vendor/xiaomi/begonia/proprietary/vendor/lib64/ov02a10af_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/ov02a10af_mipi_raw_IdxMgr.so \
