@@ -1130,8 +1130,6 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.hardware.displayfeature@1.0 \
     vendor.xiaomi.hardware.fingerprintextension@1.0 \
     wechat.beanpod \
-    libaptXHD_encoder \
-    libaptX_encoder \
     SoterService \
     HotwordEnrollmentOKGoogleCORTEXM4 \
     HotwordEnrollmentXGoogleCORTEXM4 \
