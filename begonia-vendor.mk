@@ -1140,7 +1140,6 @@ PRODUCT_PACKAGES += \
     lights-mtk-default \
     manifest_android.hardware.drm@1.3-service.widevine \
     vendor.mediatek.hardware.dplanner@2.0-service \
-    chargeonlymode \
     batteryd \
     bip \
     bp_kmsetkey_ca \
